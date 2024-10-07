@@ -1,0 +1,1 @@
+# laragon-config
